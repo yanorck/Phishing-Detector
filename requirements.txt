@@ -1,0 +1,27 @@
+# Framework Web
+Flask==3.0.2
+Werkzeug==3.0.1
+
+# Manipulação de variáveis de ambiente
+python-dotenv==1.0.1
+
+# Requisições HTTP
+requests==2.31.0
+
+# Validação de URLs
+validators==0.22.0
+
+# Processamento de dados
+pandas==2.2.1
+numpy==1.26.4
+
+# Segurança
+cryptography==42.0.5
+
+# Utilitários
+python-dateutil==2.8.2
+pytz==2024.1
+
+python-whois==0.8.0
+beautifulsoup4==4.12.3
+tldextract==3.4.0
